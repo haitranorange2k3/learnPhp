@@ -6,6 +6,7 @@
     <title>POST va GET</title>
 </head>
 <body>
+    <h1>Tran Van Hai dep trai oi !!!!</h1>
     <form action="#" method="get">
         Name : <input type="text" name="name">
         Email : <input type="text" name="email">
